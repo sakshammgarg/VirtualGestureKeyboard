@@ -56,7 +56,7 @@ pip install mediapipe==0.10.14 opencv-python numpy
 
 ## Running the Project
 ```bash
-python VirtualGestureKeyboard.py
+python3 VirtualGestureKeyboard.py
 ```
 
 - Press **ESC** to exit the application
