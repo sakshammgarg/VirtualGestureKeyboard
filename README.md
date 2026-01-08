@@ -42,14 +42,12 @@ A real-time gesture-controlled virtual keyboard that allows users to type using 
 > **Note:** This project is intended to run locally.
 
 ### 1. Create a virtual environment
-
 ```bash
 python3.10 -m venv vk_env
 source vk_env/bin/activate
 ```
 
 ### 2. Install dependencies
-
 ```bash
 pip install mediapipe==0.10.14 opencv-python numpy
 ```
@@ -57,7 +55,6 @@ pip install mediapipe==0.10.14 opencv-python numpy
 ---
 
 ## Running the Project
-
 ```bash
 python VirtualGestureKeyboard.py
 ```
@@ -80,7 +77,7 @@ python VirtualGestureKeyboard.py
 ## Gesture Rules
 
 | Gesture Scenario | Result |
-|-----------------|--------|
+|------------------|--------|
 | Left-hand pinch | Key registered |
 | Right-hand pinch | Key registered |
 | Both hands pinch together | Only one key registered |
