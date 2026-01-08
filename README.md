@@ -51,7 +51,7 @@ source vk_env/bin/activate
 ### 2. Install dependencies
 
 ```bash
-pip install mediapipe==0.10.x opencv-python numpy
+pip install mediapipe==0.10.14 opencv-python numpy
 ```
 
 ---
@@ -59,7 +59,7 @@ pip install mediapipe==0.10.x opencv-python numpy
 ## Running the Project
 
 ```bash
-python virtual_keyboard.py
+python VirtualGestureKeyboard.py
 ```
 
 - Press **ESC** to exit the application
