@@ -39,7 +39,7 @@ A real-time gesture-controlled virtual keyboard that allows users to type using 
 
 ## Installation
 
-> **Note:** This project is intended to run locally (not on Google Colab).
+> **Note:** This project is intended to run locally.
 
 ### 1. Create a virtual environment
 
