@@ -59,6 +59,7 @@ pip install mediapipe==0.10.14 opencv-python numpy
 python3 VirtualGestureKeyboard.py
 ```
 
+- Make sure to run from the directory where the file is downloaded
 - Press **ESC** to exit the application
 - Ensure good lighting for best hand tracking accuracy
 
